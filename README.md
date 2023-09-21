@@ -1,2 +1,2 @@
 # submission-demo
-An devops solution project repo
+- An devops solution project repo
