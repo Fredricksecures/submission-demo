@@ -1,2 +1,1 @@
-# submission-demo
-- An devops solution project repo
+Documentation for my lampstack project
